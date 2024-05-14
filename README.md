@@ -12,5 +12,5 @@ Welcome to the IEEE Short Academic Paper Assignment Repository for ENTERPRISE SY
 |Enterprise Information System in Manufacturing Industry|<a href="" >Group 13</a>|<a href="" >Group 14</a>|
 |Enterprise System Architecture|<a href="" >Group 15</a>|<a href="" >Group 16</a>|
 |Enterprise System Architecture: Zahman|<a href="" >Group 17</a>|<a href="" >Group 18</a>|
-|`Enterprise System Architecture: Togaf|<a href="" >Group 19</a>|<a href="https://github.com/users/mikhaiIy/projects/20" >Group 20</a>|
+|`Enterprise System Architecture: Togaf|<a href="" >Group 19</a>|<a href="/mikhaily/Projects/Group 20" >Group 20</a>|
 |Data Governance and Enterprise Information System|<a href="" >Group 21</a>|<a href="" >Group 22</a>|
